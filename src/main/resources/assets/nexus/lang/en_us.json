@@ -1,0 +1,9 @@
+{
+  "key.nexus.open_settings": "Open Nexus Video Settings",
+  "category.nexus.general": "Nexus",
+  "nexus.settings.title": "Nexus \u2014 Video Settings",
+  "nexus.settings.section.culling": "Culling & Distance",
+  "nexus.settings.section.chunks": "Chunk Building",
+  "nexus.settings.section.quality": "Visual Quality",
+  "nexus.settings.section.gui": "GUI Behavior"
+}
